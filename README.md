@@ -16,7 +16,7 @@ Speaking of databases, your customers will always be accessible even after you c
 - Ensures information is correctly entered to prevent typos and invalid information (after all, we are human)
 - Presents all data for viewing purposes along with different sorting categories.
 
-# More about the project
+## More about the project
 
 This application was built by beginner programmers as a final project in an Object Oriented Programming II class. It was our first try in taking advantage of **JavaFX**, so the UI may seem a little rough on the edges. 
 
@@ -26,7 +26,7 @@ Apart from data structures, we also integrated our knowledge on deciding which *
 
 > Fun Fact: Linda is the name of our OOP II class instructor. Shoutout to Linda for an amazing and educational quarter.
 
-# Team
+## Team
 I was directly involved in building this project, and focused mainly on the implementations of storing data along with the help of my teammates. I was also in charge of bulletproofing user entry, creating relevant exceptions to catch different kinds of errors, and documentation (JavaDocs).
 
 Thanks to [Joyce](https://www.linkedin.com/in/joyce-weng-870044211/) for implementing the sorting algorithms into our program and the file handling aspect of the application.
