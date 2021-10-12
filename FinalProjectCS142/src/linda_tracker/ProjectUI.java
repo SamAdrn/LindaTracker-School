@@ -130,7 +130,7 @@ public class ProjectUI extends Application {
         Scene scene = new Scene(root);
         //stage
         stage.setScene(scene);
-        stage.setTitle("Linda+ Subscription Manager");
+        stage.setTitle("LindaTracker+ Subscription Manager");
         stage.setWidth(750);
         stage.setHeight(400);
         stage.setX(300);
@@ -148,7 +148,7 @@ public class ProjectUI extends Application {
     VBox getWelcomePane() {
         VBox welcomePane = new VBox();
         welcomePane.setSpacing(20);
-        Label lblWelcome = new Label("Welcome to Linda's Tracker ++");
+        Label lblWelcome = new Label("Welcome to LindaTracker+");
         lblWelcome.setFont(new Font("Arial", 20));
         lblWelcome.setWrapText(true);
         Label lblAddInstruction = new Label("Click" + " Add a person" + " to "
@@ -365,7 +365,6 @@ public class ProjectUI extends Application {
      */
     public void addButtonAction() {
         if (txtName.getText().isEmpty()
-                || birthday.getValue().toString().isEmpty()
                 || txtMonths.getText().isEmpty()) {
             getMissingInputAlert();
         } else {
