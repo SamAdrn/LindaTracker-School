@@ -31,7 +31,7 @@ I was directly involved in building this project, and focused mainly on the impl
 
 Thanks to [Joyce](https://www.linkedin.com/in/joyce-weng-870044211/) for implementing the sorting algorithms into our program and the file handling aspect of the application.
 
-Thanks to [Kyle](https://github.com/Kai0802) for desigining the UI and providing a great user interface that's simple and stylish.
+Thanks to [Kyle](https://github.com/Kai0802) for designing the UI.
 
 > This project was made during the Winter 2021 quarter at Edmonds College in Washington.
 
